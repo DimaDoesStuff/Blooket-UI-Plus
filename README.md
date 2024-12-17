@@ -10,27 +10,10 @@ A script that uses a graphical user interface to make Blooket cheating easier th
 
 ### How do I Use This?
 
-#### Browser Console Method
+#### Bookmark Method
 
-1. Copy the code of [`src.js`](https://raw.githubusercontent.com/Blooketware/BlooketUI/main/src.js) by pressing `CTRL + A`
-2. Now paste that into your browser console (CTRL + SHIFT + I)
-
-#### Bookmarklet Method
-
-1. Copy the code from [`bookmarklet.js`](https://raw.githubusercontent.com/Blooketware/BlooketUI/main/bookmarklet.js) by pressing `CTRL + A`
+1. Copy the code from [`bookmark.js`](https://raw.githubusercontent.com/DimaDoesStuff/Blooket-UI-Plus/refs/heads/main/bookmark.js) by pressing `CTRL + A`
 2. Create a new Bookmark and paste the code you copied in the URL option. (Bookmarks > Bookmark this tab > More... > [`bookmarklet.js`](https://raw.githubusercontent.com/Blooketware/BlooketUI/main/bookmarklet.js) > Done)
-
-#### [blooket-utility](https://github.com/ThatFruedDued/blooket-utility) Method
-
-1. Follow the steps given [here](https://github.com/ThatFruedDued/blooket-utility#how-do-i-use-it) but paste `https://blooketware.github.io/BlooketUI/blooket-utility/injectable.json` in the "Add Injectable" Box.
-2. Now go to the Perfs tab in the [Configuration Page](https://blooket-utility.okr765.com/conf) and enable BlooketUI.
-3. Now just login like normally in the [blooket-utility](https://blooket-utility.okr765.com/) page and there you go!
-### Credits
-
-- [zastix](https://github.com/notzastix) for the underlying UI and some of the hacks
-- [rxzyx](https://github.com/rxzyx) for the blook rush and deceptive dino hacks
-- [Frued Dued](https://github.com/ThatFruedDued) for the awesome [blooket-utility](https://github.com/ThatFruedDued/blooket-utility/)
-- [Echo](https://github.com/3kh0) for some small changes and improvements
 
 ### Disclaimer
 
