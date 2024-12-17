@@ -4,7 +4,7 @@
 </h1>
 
 
-### What's BlooketUI?
+### What's A Blooket UI?
 
 A script that uses a graphical user interface to make Blooket cheating easier than ever.
 
