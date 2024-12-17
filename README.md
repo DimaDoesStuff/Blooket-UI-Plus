@@ -1,5 +1,5 @@
 <h1 align="center">
-  BlooketUI
+  Blooket-UI-Plus
   <br>
 </h1>
 
