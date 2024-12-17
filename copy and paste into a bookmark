@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DimaDoesStuff/Blooket-UI-Plus/refs/heads/main/code.js"))()
