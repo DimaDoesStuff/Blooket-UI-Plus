@@ -13,7 +13,7 @@ A script that uses a graphical user interface to make Blooket cheating easier th
 #### Bookmark Method
 
 1. Copy the code from [`bookmark.js`](https://raw.githubusercontent.com/DimaDoesStuff/Blooket-UI-Plus/refs/heads/main/bookmark.js) by pressing `CTRL + A`
-2. Create a new Bookmark and paste the code you copied in the URL option. (Bookmarks > Bookmark this tab > More... > [`bookmarklet.js`](https://raw.githubusercontent.com/Blooketware/BlooketUI/main/bookmarklet.js) > Done)
+2. Create a new Bookmark and paste the code you copied in the URL option. (Bookmarks > Bookmark this tab > More... > [`bookmark.js`](https://raw.githubusercontent.com/DimaDoesStuff/Blooket-UI-Plus/refs/heads/main/bookmark.js) > Done)
 
 ### Disclaimer
 
