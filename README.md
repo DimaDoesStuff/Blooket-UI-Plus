@@ -6,7 +6,7 @@
 
 ### What's A Blooket UI?
 
-A script that uses a graphical user interface to make Blooket cheating easier than ever.
+A script that uses a user interface to make Blooket cheating easier than ever.
 
 ### How do I Use This?
 
